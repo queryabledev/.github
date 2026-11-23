@@ -13,7 +13,9 @@
 <p align="center">
   <a href="https://queryable.dev">Website</a> ·
   <a href="https://github.com/queryabledev/queryable">Queryable repository</a> ·
-  <a href="https://github.com/queryabledev/queryable-tutorial">Tutorial</a>
+  <a href="https://github.com/queryabledev/queryable-tutorial">Queryable Tutorial</a>
+   <a href="https://github.com/queryabledev/quarkus-queryable">Quarkus Queryable repository</a> ·
+  <a href="https://github.com/queryabledev/quarkus-queryable-tutorial">Quarkus Queryable Tutorial</a>
 </p>
 
 ## What is Queryable?
